@@ -34,7 +34,3 @@ The tool checks your inputs against the NIST baseline. It looks for an 8-charact
 ## What Is Next
 
 The password rating, bulk rating, and entropy calculation modes are stubbed out right now. They will be added as the project grows.
-
----
-
-Made by Yash.
